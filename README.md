@@ -1,6 +1,5 @@
-# ¡Hola!👋, soy @AndreaRoa
 
-![aboutMe](https://github.com/AndreaRoa/DEV006-md-links/assets/127570265/cd725fa4-84ff-4dce-81fc-5f5c3bb456b0)
+![aboutMe]![banner](https://github.com/AndreaRoa/AndreaRoa/assets/127570265/f5474ff1-7165-48f9-a901-c7255ed1b373){width=100%}
 
 
 Desarrolladora web, amante del diseño creativo de aplicaciones, disfruto enfrentar los desafíos de un mundo tecnológico fluctuante, siempre aprendiendo y adaptándome.
